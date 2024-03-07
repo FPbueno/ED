@@ -1,0 +1,11 @@
+assinatura/API = nome(parametro):tipos;encapsulamento
+metodo modela um comportamento
+classe modela coisa do mundo real ou documento
+
+classe cachorro:
+	raça: cadeia de caracteres;
+	latir: função;
+fim-classe
+
+corpo de uma classe = nome da classe,propriedades/atributos,metodos();
+não se apegue a linguagem de programação;
