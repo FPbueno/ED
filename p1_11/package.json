@@ -1,0 +1,13 @@
+{
+  "name": "tarefa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "p1": "ts-node ./src/programa1.ts",
+    "p2": "ts-node ./src/programa2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
