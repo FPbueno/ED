@@ -1,3 +1,3 @@
 import comparador from "./programa2_model";
 
-comparador(3,4);
+comparador(2,4);
