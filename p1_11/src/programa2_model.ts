@@ -1,4 +1,7 @@
+const prompt = require ('prompt-sync') ({sigint: true});
 function comparador(n1:number,n2:number){
+    n1 = prompt("digite um numero:");
+    n2 = prompt("digite outro numero:");
     switch(true){
         case n1 > n2:
             console.log(`O número ${n1} é maior que o número ${n2}.`);

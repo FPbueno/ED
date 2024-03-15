@@ -12,4 +12,6 @@ Resposta:{
 
     (No caso do if-else ele tem um resposta para o true e o false enquanto no switch (true) ele só retornará uma resposta se o valor booleano for true caso for false ele não executará nada)};
 
-Modo de execução: {escrever no terminal npm run p1 para rodar o primeiro programa e npm run p2 para rodar o segundo programa};
+Modo de execução: Para rodar o codigo instale antes o promp-sync utilizando o comando 'npm i prompt-sync' e também instale o 'npm i @types/prompt-sync' e caso ainda de algum erro pode instalar 'npm i --save-dev @types/node'; 
+    E para rodar o codigo escrever no terminal npm run p1 para rodar o primeiro programa e npm run p2 para rodar o segundo programa;
+
