@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "p1": "ts-node ./src/programa1.ts",
-    "p2": "ts-node ./src/programa2.ts"
+    "p1": "ts-node ./src/programa1_view.ts",
+    "p2": "ts-node ./src/programa2_view.ts"
   },
   "keywords": [],
   "author": "",

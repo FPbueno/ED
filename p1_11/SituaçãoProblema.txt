@@ -11,3 +11,5 @@ Resposta:{
     Exemplificação: A instrução if-else permite que você escolha qual dos dois caminhos de código seguir com base em uma expressão booleana. A instrução switch seleciona uma lista de instruções a ser executada com base em uma correspondência de padrão com uma expressão.
 
     (No caso do if-else ele tem um resposta para o true e o false enquanto no switch (true) ele só retornará uma resposta se o valor booleano for true caso for false ele não executará nada)};
+
+Modo de execução: {escrever no terminal npm run p1 para rodar o primeiro programa e npm run p2 para rodar o segundo programa};
